@@ -1,0 +1,17 @@
+{
+  "name": "simon_dev",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-console": "^2.0.0",
+    "purescript-lists": "^3.2.1",
+    "purescript-pux": "^7.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^2.0.0"
+  }
+}

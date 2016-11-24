@@ -1,0 +1,33 @@
+{
+  "name": "simon_dev",
+  "version": "1.0.0",
+  "description": "Simon clone written in purescript",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sroelants/simon_dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sroelants/simon_dev/issues"
+  },
+  "homepage": "https://github.com/sroelants/simon_dev#readme",
+  "devDependencies": {
+    "browser-sync": "^2.17.6",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-if": "^2.0.2",
+    "gulp-purescript": "^1.0.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.1.2"
+  }
+}
